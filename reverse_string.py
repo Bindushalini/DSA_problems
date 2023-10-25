@@ -12,3 +12,4 @@ for char in string:
 while not s.is_stack_empty():
     reversed_string += s.pop()
 print(reversed_string)
+#
