@@ -1,0 +1,10 @@
+Index: .gitignore
+===================================================================
+diff --git a/.gitignore b/.gitignore
+deleted file mode 100644
+--- a/.gitignore	(revision dd01c56d3a29bf1b048ef03f6d6b306b896def49)
++++ /dev/null	(revision dd01c56d3a29bf1b048ef03f6d6b306b896def49)
+@@ -1,2 +0,0 @@
+-.vscode/
+-*.exe
+\ No newline at end of file
